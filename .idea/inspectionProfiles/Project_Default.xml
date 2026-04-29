@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="anyio" />
+          <option value="cffi" />
+          <option value="click" />
+          <option value="cssselect2" />
+          <option value="Django" />
+          <option value="django-cors-headers" />
+          <option value="djangorestframework" />
+          <option value="Flask" />
+          <option value="Flask-PyMongo" />
+          <option value="Flask-SQLAlchemy" />
+          <option value="httpx" />
+          <option value="openai" />
+          <option value="pydantic" />
+          <option value="razorpay" />
+          <option value="weasyprint" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
